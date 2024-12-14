@@ -1,0 +1,1 @@
+# Template for hexagonal based architecture for Java Microservice
